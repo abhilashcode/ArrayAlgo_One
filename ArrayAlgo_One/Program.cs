@@ -138,6 +138,12 @@ namespace ArrayAlgo_One
             int z = 0;
             int c = z;
         }
+        
+        static void CheckPosition2()
+        {
+            int x1 = 0;
+            int y1 = 0;
+        }
 
         public void Method()
         {
