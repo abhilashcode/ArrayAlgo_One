@@ -140,7 +140,7 @@ namespace ArrayAlgo_One
         }
         static void Main(string[] args)
         {
-            int[] _checkArray = { 4, 5, 6, 7, 8, 9 };
+            
             int[] _checkArray1 = { 3, 0, 1, 8, 0, 7, 15 };
             DictionaryCheck();
             MinMaxArraySwap(new int[] { 4, 1, 3, 7, 4, 8 });
