@@ -141,7 +141,7 @@ namespace ArrayAlgo_One
 
         public void Method()
         {
-
+            int fields = 0;
         }
         static void Main(string[] args)
         {
