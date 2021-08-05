@@ -142,7 +142,7 @@ namespace ArrayAlgo_One
         static void CheckPosition2()
         {
             int x1 = 0;
-            int y = 0;
+            int y1 = 0;
         }
 
         public void Method()
