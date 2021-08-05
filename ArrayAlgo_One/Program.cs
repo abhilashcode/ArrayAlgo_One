@@ -146,8 +146,8 @@ namespace ArrayAlgo_One
         }
         static void Main(string[] args)
         {
-            int[] _checkArray = { 4, 5, 6, 7, 8, 9 };
-            int[] _checkArray1 = { 3, 0, 1, 8, 0, 7, 15 };
+            
+            int[] _checkArray1 = { 3, 0, 1, 8, 0, 7, 15,12, 17 };
             DictionaryCheck();
             MinMaxArraySwap(new int[] { 4, 1, 3, 7, 4, 8 });
             InsertElementToArrayAtPosition(new int[] { 1,2,3,4,6,7 }, 1, 5);
