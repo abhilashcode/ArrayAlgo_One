@@ -136,6 +136,7 @@ namespace ArrayAlgo_One
         static void CheckPosition()
         {
             int z = 0;
+            int c = z;
         }
         static void Main(string[] args)
         {
