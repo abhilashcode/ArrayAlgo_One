@@ -132,6 +132,11 @@ namespace ArrayAlgo_One
                 Console.WriteLine("{0} ", item);
             }
         }
+
+        static void CheckPosition()
+        {
+
+        }
         static void Main(string[] args)
         {
             int[] _checkArray = { 4, 5, 6, 7, 8, 9 };
