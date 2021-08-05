@@ -146,6 +146,7 @@ namespace ArrayAlgo_One
             MinMaxArraySwap(new int[] { 4, 1, 3, 7, 4, 8 });
             InsertElementToArrayAtPosition(new int[] { 1,2,3,4,6,7 }, 1, 5);
             Console.Write("Hi");
+            Console.Write("Bye");
         }
     }
 }
