@@ -141,7 +141,7 @@ namespace ArrayAlgo_One
         
         static void CheckPosition2()
         {
-            int x = 0;
+            int x1 = 0;
             int y = 0;
         }
 
