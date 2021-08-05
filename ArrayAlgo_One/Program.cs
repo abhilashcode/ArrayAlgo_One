@@ -137,6 +137,7 @@ namespace ArrayAlgo_One
         {
             int z = 0;
             int c = z;
+            int c1 = z;
         }
 
         public void Method()
