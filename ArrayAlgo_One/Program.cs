@@ -138,6 +138,11 @@ namespace ArrayAlgo_One
             int x = 0;
             int y = 0;
         }
+
+        public void Method()
+        {
+
+        }
         static void Main(string[] args)
         {
             int[] _checkArray = { 4, 5, 6, 7, 8, 9 };
