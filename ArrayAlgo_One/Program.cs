@@ -136,6 +136,7 @@ namespace ArrayAlgo_One
         static void CheckPosition()
         {
             int x = 0;
+            int y = 0;
         }
         static void Main(string[] args)
         {
