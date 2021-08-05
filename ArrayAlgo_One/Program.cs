@@ -144,6 +144,7 @@ namespace ArrayAlgo_One
             int fields = 0;
             int field2 = 0;
             int field3 = 0;
+            int field4 = 0;
         }
         static void Main(string[] args)
         {
